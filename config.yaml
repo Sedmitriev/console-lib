@@ -1,0 +1,4 @@
+commands:
+  test:
+    className: 'Sedmit\CommandLib\Command\TestCommand'
+    description: 'Тестовая команда'
