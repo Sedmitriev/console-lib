@@ -32,6 +32,7 @@ commands:
 
 Пример работы консольного приложения
 ------------
+Команда test выводит в консоль название команды, все аргументы и параметры.
 ```bash
 $ php app.php test {verbose,overwrite} [log_file=app.log] {unlimited} [methods={create,update,delete}] [paginate=50] {log}
 
